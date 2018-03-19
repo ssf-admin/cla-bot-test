@@ -1,2 +1,2 @@
-# cla-bot-test
-Test environment of cla-bot
+# cla-bot-dev
+Dev environment of cla-bot
